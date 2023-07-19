@@ -7,8 +7,9 @@
 
 JRebel激活窗口：
   * 访问地址：http://localhost:8081/{GUID}。
+    
     可以直接复制服务启动时的日志中的地址。
-    GUID可以使用UUID直接生成，或者使用https://www.uuidgenerator.net在线生成
+    GUID可以使用UUID直接生成，或者使用 [UUID生成](https://www.uuidgenerator.net) 在线生成。
   * 邮箱：填写任意邮箱即可。
 
 注意事项：
